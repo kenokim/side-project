@@ -1,8 +1,10 @@
 # side-project
-즐거운 사이드 프로젝트
+- 즐거운 사이드 프로젝트 (주제는 없음)
+
+### 비용 budget
+- 한달에 만원 넘지 않도록 ...
 
 ## 구성
-- ec2 -> k3s
-- github action -> k3s / argocd
-- db -> aws free tier 쓸 수 있는 걸로 구성
-
+- ecs + fargate / ecr
+- dynamodb
+- lambda
